@@ -1,5 +1,4 @@
 ## Hi there 👋
-## Lowkey[perhaps high key] all you will see here is rust.
 **I am Pascal, but you can call me Karo (Short for Oghenekaro) 🙂**  
 There are two things I love: **Rust** and **Bioinformatics**.     
 This is the repository dedicated to my rust projects, backend journey, and blockchain development in rust. 
