@@ -21,15 +21,15 @@ I decided to create a seperate rust git account for collaborators to neatly see 
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-mwendwa.vercel.app/api?username=Onaho-Pascal&show_icons=true&theme=vision-friendly-dark&count_private=true)
+![Your GitHub Stats](https://github-readme-mwendwa.vercel.app/api?username=Pascal-Onaho&show_icons=true&theme=vision-friendly-dark&count_private=true)
 
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=onaho-Pascal&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Pascal-Onaho&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ---
 
   
 <p align="center">
-  <img width="900" height="220" src="https://streak-stats.demolab.com?user=Onaho-Pascal&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="900" height="220" src="https://streak-stats.demolab.com?user=Pascal-Onaho&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
