@@ -8,8 +8,6 @@ If you wanna see my projects on bioinformatics and computational biology, you ca
 I decided to create a seperate rust git account for collaborators to neatly see my rust work and portfolio without getting lost in bioinformatics and computational biology sauce 🛰️
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on open source contribution to rust projects as well as integrating rust into my bioinformatics workflow pipelines
 - 🌱 I’m currently learning rust back end developement
 - 👯 I’m looking to collaborate on rust projects (open-source or not)
