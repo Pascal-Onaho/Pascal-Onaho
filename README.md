@@ -1,11 +1,10 @@
 
 
 ## Hi there 👋
-## I am Pascal, but you can call me Karo (Short for Oghenekaro)    
-## There are two things I love: **Rust** and **Bioinformatics**.
+I am Pascal, but you can call me Karo (Short for Oghenekaro). There are two things I love: **Rust** and **Bioinformatics**.
 ## Everything here has to do with Rust, Baby!! 😙
-## If you wanna see my projects on bioinformatics and computational biology, you can check out my other github account [Pascal's Bioinformatics Projects](https://github.com/Onaho-Pascal)  
-## 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pascalonaho/)
+If you wanna see my projects on bioinformatics and computational biology, you can check out my other github account [Pascal's Bioinformatics Projects](https://github.com/Onaho-Pascal)  
+  
 
 -->
 
